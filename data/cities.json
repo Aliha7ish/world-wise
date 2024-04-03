@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Chaves",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-02-21T13:13:06.255Z",
+      "notes": "",
+      "position": {
+        "lat": "41.7180304600481",
+        "lng": "-7.487182617187501"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Donostia / San Sebastian",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-21T14:13:06.788Z",
+      "notes": "",
+      "position": {
+        "lat": "43.29320031385285",
+        "lng": "-1.9390869140625002"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Sober",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-21T14:25:35.414Z",
+      "notes": "",
+      "position": {
+        "lat": "42.42345651793833",
+        "lng": "-7.509155273437501"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Gijon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-21T14:25:41.374Z",
+      "notes": "",
+      "position": {
+        "lat": "43.52863784833001",
+        "lng": "-5.7403564453125"
+      },
+      "id": 6
+    }
+  ]
+}
